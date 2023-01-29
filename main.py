@@ -40,7 +40,7 @@ def have_config():
     if have_config:
         logger.info(f'RN_log_filter_config.json found , reading json')
     if not have_config:
-        logger.inifo(f'RN_log_filter_config.json not found')
+        logger.info(f'RN_log_filter_config.json not found')
     return have_config
 
 
@@ -109,7 +109,8 @@ def read_clientLog(
     client_log_path = os.path.join(RN_path,"client.log")
     # i = 0
     black_list_counter = 0
-    counter = 0
+    counter1 = 0
+    counter2 = 0
     try:
         with open(client_log_path,'r',encoding='utf-8') as f:
             logger.info(f'reading client.log')
@@ -117,29 +118,40 @@ def read_clientLog(
                 logger.info(f'create log_result.txt')
                 for file_content in f:
                     # print(file_content)
-                    for i in range(len(search_content)):
+                    for i1 in range(len(search_content)):
                         # print('12222')
                         # print(f'i : {i}')
-                        if operator.contains(file_content,search_content[i]):
+                        if operator.contains(file_content,search_content[i1]):
                             # print(file_content,content_list[i])
                             # print(operator.contains(file_content,'wor'))
-                            counter = counter + 1
+                            counter1 = counter1 + 1
                             # print(counter)
-                    if not counter == 0:
+                    for i2 in range(len(black_list)):
+
+                        if operator.contains(file_content,black_list[i2]):
+                            counter2 = counter2 + 1 
+
+                    if not counter1 == 0 and counter2 == 0:
                         # logger.info(file_content)
                         total_hash += 1
                         seacrhing_result= file_content[30:]
                         # w.write(seacrhing_result)
                         searching_list.append(seacrhing_result)
-                        counter = 0 
+                        counter1 = 0 
+                        counter2 = 0
                     else:
-                        counter = 0 
+                        counter1 = 0 
+                        counter2 = 0
                 finallist=list(set(searching_list)) 
                 total_hash_ = f'number of hash : {total_hash}'
                 logger.info(total_hash_)
-                finallist.sort(reverse = False)
+                finallist.sort(reverse = False) # 逆序排序
+                logger.info(f'sorting result')
                 for ii in finallist:
-                    w.write(ii)
+                    w.write(ii)     # 输出结果
+                logger.info(f'writing result to log_result.txt')
+                w.write(f' {total_hash_}')  # 总共search到的hash数量
+                
 
                 # w.write(total_hash_)
 
