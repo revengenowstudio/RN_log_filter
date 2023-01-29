@@ -1,0 +1,379 @@
+29.01. 10:13:08.232[Notice]    ***Logfile for Revenge Now client***
+29.01. 10:13:08.233[Notice]    Client version: 2.2.0.3
+29.01. 10:13:08.234[Notice]    Loading settings.
+29.01. 10:13:08.246[Notice]    UserINISettings : Handle : 
+29.01. 10:13:08.246[Notice]    shuiping233
+29.01. 10:13:08.263[Notice]    Initializing updater.
+29.01. 10:13:08.266[Notice]    Update mirror count: 2
+29.01. 10:13:08.267[Notice]    Running from: clientxna.exe
+29.01. 10:13:08.268[Notice]    Operating system: Microsoft Windows NT 6.2.9200.0
+29.01. 10:13:08.269[Notice]    Selected OS profile: WIN810
+29.01. 10:13:08.270[Notice]    Removing partial custom component downloads.
+29.01. 10:13:08.271[Notice]    Checking for the existence of FinalSun.ini.
+29.01. 10:13:08.272[Notice]    FinalSun.ini doesn't exist - writing default settings.
+29.01. 10:13:08.280[Notice]    An exception occured while checking the existence of FinalSun settings
+29.01. 10:13:08.282[Notice]    Writing installation path to the Windows registry.
+29.01. 10:13:08.560[Notice]    Initializing GameClass.
+29.01. 10:13:08.691[Notice]    InitGraphicsMode: 1280x720
+29.01. 10:13:08.807[Notice]    Checking local file versions.
+29.01. 10:13:08.811[Notice]    Loading maps.
+29.01. 10:13:09.147[Notice]    current local version is : 0.99.914b1
+29.01. 10:13:09.148[Notice]    savegame identifier : 385880175
+29.01. 10:13:09.500[Notice]    Hardware info: 12th Gen Intel(R) Core(TM) i5-1240P (12 cores)  Video controller: Intel(R) Iris(R) Xe Graphics 
+29.01. 10:13:10.476[Notice]    AssetLoader.LoadSound: Sound not found! MainMenu\button.wav
+29.01. 10:13:10.477[Notice]    AssetLoader.LoadSound: Sound not found! MainMenu\button.wav
+29.01. 10:13:10.479[Notice]    AssetLoader.LoadSound: Sound not found! MainMenu\button.wav
+29.01. 10:13:10.479[Notice]    AssetLoader.LoadSound: Sound not found! MainMenu\button.wav
+29.01. 10:13:10.481[Notice]    AssetLoader.LoadSound: Sound not found! MainMenu\button.wav
+29.01. 10:13:10.481[Notice]    AssetLoader.LoadSound: Sound not found! MainMenu\button.wav
+29.01. 10:13:10.482[Notice]    AssetLoader.LoadSound: Sound not found! MainMenu\button.wav
+29.01. 10:13:10.483[Notice]    AssetLoader.LoadSound: Sound not found! MainMenu\button.wav
+29.01. 10:13:10.483[Notice]    AssetLoader.LoadSound: Sound not found! MainMenu\button.wav
+29.01. 10:13:10.483[Notice]    AssetLoader.LoadSound: Sound not found! MainMenu\button.wav
+29.01. 10:13:10.483[Notice]    AssetLoader.LoadSound: Sound not found! MainMenu\button.wav
+29.01. 10:13:10.484[Notice]    AssetLoader.LoadSound: Sound not found! MainMenu\button.wav
+29.01. 10:13:10.485[Notice]    AssetLoader.LoadSound: Sound not found! MainMenu\button.wav
+29.01. 10:13:10.485[Notice]    AssetLoader.LoadSound: Sound not found! MainMenu\button.wav
+29.01. 10:13:10.485[Notice]    AssetLoader.LoadSound: Sound not found! MainMenu\button.wav
+29.01. 10:13:10.486[Notice]    AssetLoader.LoadSound: Sound not found! MainMenu\button.wav
+29.01. 10:13:10.659[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.662[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.663[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.664[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.665[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.666[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.667[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.669[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.670[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.670[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.672[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.672[Notice]    Saved game Name:[特别行动 - 十面埋伏], Version:385880175
+29.01. 10:13:10.673[Notice]    Saved game Name:[特别行动 - 崩溃边缘], Version:385880175
+29.01. 10:13:10.675[Notice]    Saved game Name:[特别行动 - 毫不留情], Version:385880175
+29.01. 10:13:10.676[Notice]    Saved game Name:[特别行动 - 碾压！碾压！], Version:385880175
+29.01. 10:13:10.676[Notice]    Saved game Name:[MISSING:'Name:MMYUR01'], Version:369103775
+29.01. 10:13:10.678[Notice]    Saved game Name:213, Version:369103775
+29.01. 10:13:10.679[Notice]    Saved game Name:军事行动：疑云重重, Version:385880175
+29.01. 10:13:10.680[Notice]    Saved game Name:321321321313, Version:369103775
+29.01. 10:13:10.681[Notice]    Saved game Name:123123121321321321, Version:369103775
+29.01. 10:13:10.682[Notice]    Saved game Name:遭遇战模式, Version:385880175
+29.01. 10:13:10.684[Notice]    Saved game Name:1113131312321s, Version:369103775
+29.01. 10:13:10.685[Notice]    Saved game Name:313213213123, Version:369103775
+29.01. 10:13:10.685[Notice]    Saved game Name:1311, Version:369103775
+29.01. 10:13:10.687[Notice]    Saved game Name:番外第六关, Version:369103775
+29.01. 10:13:10.688[Notice]    Saved game Name:军事行动：疑云重重, Version:385880175
+29.01. 10:13:10.689[Notice]    Saved game Name:213213, Version:369103775
+29.01. 10:13:10.690[Notice]    Saved game Name:特别行动 - 碾压！碾压！, Version:385880175
+29.01. 10:13:10.691[Notice]    Saved game Name:131312312131, Version:369103775
+29.01. 10:13:10.692[Notice]    Saved game Name:1313131, Version:369103775
+29.01. 10:13:10.693[Notice]    Saved game Name:3213213123, Version:369103775
+29.01. 10:13:10.694[Notice]    Saved game Name:31232131231, Version:369103775
+29.01. 10:13:10.695[Notice]    Saved game Name:123, Version:369103775
+29.01. 10:13:10.696[Notice]    Saved game Name:21321313, Version:369103775
+29.01. 10:13:10.696[Notice]    Saved game Name:13131221, Version:369103775
+29.01. 10:13:10.697[Notice]    Saved game Name:3213213213213, Version:369103775
+29.01. 10:13:10.698[Notice]    Saved game Name:1313, Version:369103775
+29.01. 10:13:10.699[Notice]    Saved game Name:123, Version:369103775
+29.01. 10:13:10.700[Notice]    Saved game Name:21313123, Version:369103775
+29.01. 10:13:10.701[Notice]    Saved game Name:军事行动：疑云重重, Version:385880175
+29.01. 10:13:10.702[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.703[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.704[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.706[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.707[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.708[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.709[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.709[Notice]    Saved game Name:[任务专用测试通道], Version:369103775
+29.01. 10:13:10.710[Notice]    Saved game Name:[任务测试通道-苏军], Version:385880175
+29.01. 10:13:10.712[Notice]    Saved game Name:[军事行动：疑云重重], Version:385880175
+29.01. 10:13:10.823[Notice]    Reading statistics.
+29.01. 10:13:10.928[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.929[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.929[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.929[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.929[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.930[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.930[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.930[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.931[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.931[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.932[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.932[Notice]    Saved game Name:[特别行动 - 十面埋伏], Version:385880175
+29.01. 10:13:10.932[Notice]    Saved game Name:[特别行动 - 崩溃边缘], Version:385880175
+29.01. 10:13:10.933[Notice]    Saved game Name:[特别行动 - 毫不留情], Version:385880175
+29.01. 10:13:10.933[Notice]    Saved game Name:[特别行动 - 碾压！碾压！], Version:385880175
+29.01. 10:13:10.934[Notice]    Saved game Name:[MISSING:'Name:MMYUR01'], Version:369103775
+29.01. 10:13:10.935[Notice]    Saved game Name:213, Version:369103775
+29.01. 10:13:10.935[Notice]    Saved game Name:军事行动：疑云重重, Version:385880175
+29.01. 10:13:10.935[Notice]    Saved game Name:321321321313, Version:369103775
+29.01. 10:13:10.939[Notice]    Saved game Name:123123121321321321, Version:369103775
+29.01. 10:13:10.940[Notice]    Saved game Name:遭遇战模式, Version:385880175
+29.01. 10:13:10.940[Notice]    Saved game Name:1113131312321s, Version:369103775
+29.01. 10:13:10.940[Notice]    Saved game Name:313213213123, Version:369103775
+29.01. 10:13:10.941[Notice]    Saved game Name:1311, Version:369103775
+29.01. 10:13:10.942[Notice]    Saved game Name:番外第六关, Version:369103775
+29.01. 10:13:10.943[Notice]    Saved game Name:军事行动：疑云重重, Version:385880175
+29.01. 10:13:10.943[Notice]    Saved game Name:213213, Version:369103775
+29.01. 10:13:10.943[Notice]    Saved game Name:特别行动 - 碾压！碾压！, Version:385880175
+29.01. 10:13:10.943[Notice]    Saved game Name:131312312131, Version:369103775
+29.01. 10:13:10.944[Notice]    Saved game Name:1313131, Version:369103775
+29.01. 10:13:10.945[Notice]    Saved game Name:3213213123, Version:369103775
+29.01. 10:13:10.945[Notice]    Saved game Name:31232131231, Version:369103775
+29.01. 10:13:10.945[Notice]    Saved game Name:123, Version:369103775
+29.01. 10:13:10.946[Notice]    Saved game Name:21321313, Version:369103775
+29.01. 10:13:10.946[Notice]    Saved game Name:13131221, Version:369103775
+29.01. 10:13:10.946[Notice]    Saved game Name:3213213213213, Version:369103775
+29.01. 10:13:10.947[Notice]    Saved game Name:1313, Version:369103775
+29.01. 10:13:10.947[Notice]    Saved game Name:123, Version:369103775
+29.01. 10:13:10.947[Notice]    Saved game Name:21313123, Version:369103775
+29.01. 10:13:10.949[Notice]    Saved game Name:军事行动：疑云重重, Version:385880175
+29.01. 10:13:10.950[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.950[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.950[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.951[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.951[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.952[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.953[Notice]    Saved game Name:[], Version:369103775
+29.01. 10:13:10.953[Notice]    Saved game Name:[任务专用测试通道], Version:369103775
+29.01. 10:13:10.953[Notice]    Saved game Name:[任务测试通道-苏军], Version:385880175
+29.01. 10:13:10.954[Notice]    Saved game Name:[军事行动：疑云重重], Version:385880175
+29.01. 10:13:10.956[Notice]    Reading statistics.
+29.01. 10:13:11.139[Notice]    AssetLoader.LoadSound: Sound not found! getready.wav
+29.01. 10:13:11.150[Notice]    AssetLoader.LoadSound: Sound not found! getready.wav
+29.01. 10:13:11.306[Notice]    AssetLoader.LoadSound: Sound not found! getready.wav
+29.01. 10:13:11.324[Notice]    AssetLoader.LoadSound: Sound not found! getready.wav
+29.01. 10:13:11.548[Notice]    Attempting to parse INI\Battle.ini to populate mission list.
+29.01. 10:13:11.550[Notice]    Finished parsing INI\Battle.ini.
+29.01. 10:13:11.558[Notice]    Attempting to parse INI\BattleExpand.ini to populate mission list.
+29.01. 10:13:11.559[Notice]    Finished parsing INI\BattleExpand.ini.
+29.01. 10:13:11.647[Notice]    Attempting to parse INI\Battle.ini to populate mission list.
+29.01. 10:13:11.648[Notice]    Finished parsing INI\Battle.ini.
+29.01. 10:13:11.678[Notice]    Finished parsing INI\Battle.ini.
+29.01. 10:13:11.678[Notice]    Attempting to parse INI\BattleExpand.ini to populate mission list.
+29.01. 10:13:11.678[Notice]    Finished parsing INI\BattleExpand.ini.
+29.01. 10:13:11.706[Notice]    Finished parsing INI\BattleExpand.ini.
+29.01. 10:13:11.812[Notice]    Attempting to parse INI\Battle.ini to populate mission list.
+29.01. 10:13:11.813[Notice]    Finished parsing INI\Battle.ini.
+29.01. 10:13:12.047[Notice]    Attempting to parse INI\BattleExpand.ini to populate mission list.
+29.01. 10:13:12.047[Notice]    Finished parsing INI\BattleExpand.ini.
+29.01. 10:13:12.243[Notice]    CheckForUpdates()
+29.01. 10:13:12.246[Notice]    Trying to fetch update mirror https://raw.githubusercontent.com/Zero-Fanker/RNUrlList/master/List
+29.01. 10:13:12.246[Notice]    GetIni : entered, url = https://raw.githubusercontent.com/Zero-Fanker/RNUrlList/master/List
+29.01. 10:13:12.258[Notice]    calling BeginOutputReadLine
+29.01. 10:13:12.259[Notice]    waiting process exiting
+29.01. 10:13:12.324[Notice]    OutputDataReceived entered
+29.01. 10:13:12.324[Notice]    curl: (6) Could not resolve host: raw.githubusercontent.com
+29.01. 10:13:12.324[Notice]    OutputDataReceived returning
+29.01. 10:13:12.325[Notice]    OutputDataReceived entered
+29.01. 10:13:12.325[Notice]    OutputDataReceived returning
+29.01. 10:13:12.327[Notice]    OutputDataReceived entered
+29.01. 10:13:12.327[Notice]    OutputDataReceived returning
+29.01. 10:13:12.329[Notice]    process exited
+29.01. 10:13:12.330[Notice]    DownloadFileWithCurl returning 
+29.01. 10:13:12.330[Notice]    GetIni : fetch failed
+29.01. 10:13:12.331[Notice]    GetIni : returned
+29.01. 10:13:12.331[Notice]    Trying to fetch update mirror https://gitee.com/Zero_Fanker/RNUrlList/raw/master/List
+29.01. 10:13:12.331[Notice]    GetIni : entered, url = https://gitee.com/Zero_Fanker/RNUrlList/raw/master/List
+29.01. 10:13:12.339[Notice]    calling BeginOutputReadLine
+29.01. 10:13:12.339[Notice]    waiting process exiting
+29.01. 10:13:12.480[Notice]    OutputDataReceived entered
+29.01. 10:13:12.480[Notice]    #=#=#                                                                         
+29.01. 10:13:12.480[Notice]    OutputDataReceived returning
+29.01. 10:13:12.595[Notice]    OutputDataReceived entered
+29.01. 10:13:12.595[Notice]    ##O#-#                                                                        
+29.01. 10:13:12.595[Notice]    OutputDataReceived returning
+29.01. 10:13:12.738[Notice]    OutputDataReceived entered
+29.01. 10:13:12.739[Notice]    ##O=#  #                                                                      
+29.01. 10:13:12.739[Notice]    OutputDataReceived returning
+29.01. 10:13:12.739[Notice]    OutputDataReceived entered
+29.01. 10:13:12.740[Notice]    OutputDataReceived returning
+29.01. 10:13:12.740[Notice]    OutputDataReceived entered
+29.01. 10:13:12.740[Notice]    ######################################################################## 100.0%
+29.01. 10:13:12.740[Notice]    100.0
+29.01. 10:13:12.740[Notice]    OutputDataReceived returning
+29.01. 10:13:12.743[Notice]    OutputDataReceived entered
+29.01. 10:13:12.743[Notice]    OutputDataReceived returning
+29.01. 10:13:12.744[Notice]    process exited
+29.01. 10:13:12.744[Notice]    DownloadFileWithCurl returning 
+29.01. 10:13:12.746[Notice]    GetIni : returned
+29.01. 10:13:12.746[Notice]    found node RN_shuiping
+29.01. 10:13:12.746[Notice]    found node RN_update
+29.01. 10:13:12.746[Notice]    found node Tencent
+29.01. 10:13:12.747[Notice]    found node Github
+29.01. 10:13:12.747[Notice]    GetMirrorWebsites finished
+29.01. 10:13:12.748[Notice]    Trying to connect to update mirror http://shuiping233.f3322.net:51080/Revenge-Now/
+29.01. 10:13:12.749[Notice]    GetVerInfo : http://shuiping233.f3322.net:51080/Revenge-Now/VersionCodes/Versioncode0.99.914b1
+29.01. 10:13:12.750[Notice]    GetIni : entered, url = http://shuiping233.f3322.net:51080/Revenge-Now/VersionCodes/Versioncode0.99.914b1
+29.01. 10:13:12.756[Notice]    calling BeginOutputReadLine
+29.01. 10:13:12.756[Notice]    waiting process exiting
+29.01. 10:13:12.847[Notice]    OutputDataReceived entered
+29.01. 10:13:12.847[Notice]    OutputDataReceived returning
+29.01. 10:13:12.847[Notice]    OutputDataReceived entered
+29.01. 10:13:12.848[Notice]    ######################################################################## 100.0%
+29.01. 10:13:12.848[Notice]    100.0
+29.01. 10:13:12.848[Notice]    OutputDataReceived returning
+29.01. 10:13:12.850[Notice]    OutputDataReceived entered
+29.01. 10:13:12.850[Notice]    OutputDataReceived returning
+29.01. 10:13:12.850[Notice]    process exited
+29.01. 10:13:12.850[Notice]    DownloadFileWithCurl returning 
+29.01. 10:13:12.852[Notice]    GetIni : returned
+29.01. 10:13:12.852[Notice]    entered GetVersionConf
+29.01. 10:13:12.852[Notice]    VersionNumber : 0.99.914b2
+29.01. 10:13:12.852[Notice]    UpdatedFromVersion : 0.99.914b1
+29.01. 10:13:12.853[Notice]    RN_shuiping	|0.99.914b1=>0.99.914b2 | 6,073,036
+29.01. 10:13:12.854[Notice]    GetVerInfo : http://shuiping233.f3322.net:51080/Revenge-Now/VersionCodes/Versioncode0.99.914b2
+29.01. 10:13:12.854[Notice]    GetIni : entered, url = http://shuiping233.f3322.net:51080/Revenge-Now/VersionCodes/Versioncode0.99.914b2
+29.01. 10:13:12.860[Notice]    calling BeginOutputReadLine
+29.01. 10:13:12.860[Notice]    waiting process exiting
+29.01. 10:13:12.913[Notice]    OutputDataReceived entered
+29.01. 10:13:12.913[Notice]    OutputDataReceived returning
+29.01. 10:13:12.914[Notice]    OutputDataReceived entered
+29.01. 10:13:12.914[Notice]    ######################################################################## 100.0%
+29.01. 10:13:12.914[Notice]    100.0
+29.01. 10:13:12.914[Notice]    OutputDataReceived returning
+29.01. 10:13:12.917[Notice]    OutputDataReceived entered
+29.01. 10:13:12.917[Notice]    OutputDataReceived returning
+29.01. 10:13:12.919[Notice]    process exited
+29.01. 10:13:12.919[Notice]    DownloadFileWithCurl returning 
+29.01. 10:13:12.919[Notice]    GetIni : returned
+29.01. 10:13:12.919[Notice]    entered GetVersionConf
+29.01. 10:13:12.919[Notice]    VersionNumber : 0.99.914b2
+29.01. 10:13:12.920[Notice]    UpdatedFromVersion : 0.99.914b2
+29.01. 10:13:12.920[Notice]    RN_shuiping	0.99.914b2 is latest |
+29.01. 10:13:12.920[Notice]     ServerGameVersion = 0.99.914b2
+29.01. 10:13:12.920[Notice]     PackageSize = 6073036
+29.01. 10:13:12.920[Notice]     UpdateSizeInKb = 5930
+29.01. 10:13:12.920[Notice]    File identifiers updated.
+29.01. 10:13:12.922[Notice]    download version code file : http://shuiping233.f3322.net:51080/Revenge-Now/VersionCodes/Versioncode0.99.914b1
+29.01. 10:13:12.926[Notice]    calling BeginOutputReadLine
+29.01. 10:13:12.927[Notice]    waiting process exiting
+29.01. 10:13:12.977[Notice]    OutputDataReceived entered
+29.01. 10:13:12.979[Notice]    OutputDataReceived returning
+29.01. 10:13:12.979[Notice]    OutputDataReceived entered
+29.01. 10:13:12.979[Notice]    ######################################################################## 100.0%
+29.01. 10:13:12.979[Notice]    100.0
+29.01. 10:13:12.979[Notice]    OutputDataReceived returning
+29.01. 10:13:12.982[Notice]    OutputDataReceived entered
+29.01. 10:13:12.982[Notice]    OutputDataReceived returning
+29.01. 10:13:12.982[Notice]    process exited
+29.01. 10:13:12.982[Notice]    DownloadFileWithCurl returning 
+29.01. 10:13:16.210[Notice]    Writing settings INI.
+29.01. 10:13:16.468[Notice]    Attempting connection to 192.223.27.109:6660
+29.01. 10:13:16.468[Notice]    Succesfully connected to 192.223.27.109 on port 6660
+29.01. 10:13:16.469[Notice]    Registering.
+29.01. 10:13:16.474[Notice]    Fetching tunnel server info.
+29.01. 10:13:17.219[Notice]    PONG 2820997751
+29.01. 10:13:41.635[Notice]    Hash for Revenge.ext.ink: ba49ef23ed3675a9ebfd94db43e4dc4cebabbdbb
+29.01. 10:13:41.636[Notice]    Hash for expandrn08.mix: 
+29.01. 10:13:41.637[Notice]    Hash for Ares.dll.inj: 659d6e6eb847e81573c162fa0d0ed12eff5a710e
+29.01. 10:13:41.637[Notice]    Hash for INI\Map Code\Battle.ini :
+29.01. 10:13:41.639[Notice]    Hash for INI\Map Code\Free For All.ini :85e53271e14006f0265921d02d4d736cdc580b0b
+29.01. 10:13:41.639[Notice]    Hash for Ares.dll: c8bfd7632a348ab1f93fdc6fce2d9a48beaee78b
+29.01. 10:13:41.639[Notice]    Hash for INI\Map Code\Meat Grinder.ini :6fdb8bfc76a17f39aff6ceb355f8900407e2e183
+29.01. 10:13:41.641[Notice]    Hash for INI\Map Code\Alchemy.ini :
+29.01. 10:13:41.646[Notice]    Hash for INI\Map Code\Unholy Alliance.ini :dfb8c0ffaccad54e583f101a001bb93485ef73ea
+29.01. 10:13:41.647[Notice]    Hash for INI\Map Code\Team Alliance.ini :0d59b708a38946d5f441cc098c5b092c13b94d85
+29.01. 10:13:41.648[Notice]    Hash for Revenge.ext: af07df115340fc133a7b37912fe459cb66fe7761
+29.01. 10:13:41.649[Notice]    Hash for INI\Map Code\Naval War.ini :493194f0090f7ee4f4442eeb9ccbff00209830c0
+29.01. 10:13:41.649[Notice]    Hash for INI\Map Code\Competition.ini :
+29.01. 10:13:41.649[Notice]    Hash for INI\Map Code\Cooperative.ini :85e53271e14006f0265921d02d4d736cdc580b0b
+29.01. 10:13:41.650[Notice]    Hash for INI\Map Code\Land Rush.ini :4e25fdc5f43fb4a493528b07b88295b124981520
+29.01. 10:13:41.650[Notice]    Hash for INI\Map Code\Megawealth.ini :7d0c0f7943f630adc37a9344fc6afccf86522ca6
+29.01. 10:13:41.650[Notice]    Hash for INI\Map Code\Star War.ini :
+29.01. 10:13:41.650[Notice]    Hash for INI\Map Code\Developer Park.ini :
+29.01. 10:13:41.650[Notice]    Hash for INI\Map Code\Fortress War.ini :
+29.01. 10:13:41.650[Notice]    Hash for INI\Map Code\Heros War.ini :
+29.01. 10:13:41.653[Notice]    Hash for C:\game\新的正常内侧日牛 测试用2\INI\Game Options\Allies Allowed.ini: 4d8d0159ab8c411b61eeb26cdd798bcd024a972f
+29.01. 10:13:41.653[Notice]    Hash for C:\game\新的正常内侧日牛 测试用2\INI\Game Options\Stationary Fog.ini: ebc909428a997c9319c8099c9979bd2eb49f13d7
+29.01. 10:13:41.659[Notice]    Hash for expandrn20.mix: 870386c883c4922fc058f0a1e2fe163f4973c2b4
+29.01. 10:13:41.662[Notice]    Hash for expandrn09.mix: da1950c9cc9b6a7b7d804599cd2499122caced9b
+29.01. 10:13:41.668[Notice]    Hash for expandrn06.mix: 9f7a49cc488b8d4c18ce4fe1330aa6a21b7bf957
+29.01. 10:13:41.686[Notice]    Hash for expandrn26.mix: ff1d9a901cb0a999c18febe56ea71fed45fc6c56
+29.01. 10:13:41.687[Notice]    Hash for cncnet5.ext: eae429547a55829a7d5fe45abfaf748acbf73128
+29.01. 10:13:41.688[Notice]    Hash for INI\GlobalCode.ini: 3ea9a358e557647fc5fd0b7533a4e1795724a601
+29.01. 10:13:41.688[Notice]    Hash for Resources\FHCConfig.ini: 
+29.01. 10:13:41.694[Notice]    Hash for expandrn99.mix: 9b3e28eca3084fa3e79a19a48f9dbd66e31bfc67
+29.01. 10:13:41.698[Notice]    Hash for expandrn27.mix: a0ad678e6a93aab9caead2c873a6513258b9dc90
+29.01. 10:13:41.700[Notice]    Hash for expandrn04.mix: 4f3af018131d9ab4183b7e0b7d4b7b5e4036a0b5
+29.01. 10:13:41.704[Notice]    Hash for expandrn05.mix: 9359472e547a504ec2f5b37dd4bd6503d27f7d9e
+29.01. 10:13:41.713[Notice]    Hash for expandrn91.mix: 5047cfddd32cfd571ae5998e11da97f5e2b381a0
+29.01. 10:13:41.729[Notice]    Hash for expandrn28.mix: 603b1de0198665da0fb1a1eff8d48472d5607c99
+29.01. 10:13:41.777[Notice]    Hash for expandrn90.mix: 500db36a35b0b31839d86ccdc1743c13ca1030ba
+29.01. 10:13:41.780[Notice]    Hash for expandrn40.mix: 1ffd632630a0a156f77ce82a2bc68ae70fb3f07f
+29.01. 10:13:41.794[Notice]    Hash for expandrn50.mix: 33a4c35e471c6a1be15a90f7eecd8857c31d7a23
+29.01. 10:13:41.915[Notice]    Hash for expandrn07.mix: 1e255fa97ea6c418db4cd5f1d8f408a805509638
+29.01. 10:13:41.926[Notice]    Hash for expandrn92.mix: 809fa1f58a0824daa3e15bbb5a13d8281cc902ae
+29.01. 10:13:41.930[Notice]    Hash for expandrn02.mix: 9ce246bf13a9818bdfce8e36e70329a761179a38
+29.01. 10:13:42.237[Notice]    Hash for expandrn95.mix: 0a82196a35bc7bbc30b072feefc2e2d4adc008f0
+29.01. 10:13:42.249[Notice]    Hash for expandrn03.mix: 3ee3ad335a79d86ee8fc26ebc490a08ba6f8a1ec
+29.01. 10:13:42.250[Notice]    fh.GameOptionsHash:f173b58e02d93e89985727022e4f2367c255284a
+29.01. 10:13:42.250[Notice]    fh.ClientXNAHash:f42604d1c0db1e95000acdbe3a9ced3794c639d1
+29.01. 10:13:42.251[Notice]    fh.MainExeHash:3e106b23b1136ed1a14d52be4c869ce61b90e454
+29.01. 10:13:42.251[Notice]    fh.INIHashes:15af269cd0669464ed236cc53e2a63c7ef6e4fd0
+29.01. 10:13:42.251[Notice]    fh.MPMapsHash:dcda7d833cdb86661133d7f38021a4b3eaffb6ed
+29.01. 10:13:42.252[Notice]    Complete hash: 5dd0faf6d436e146b313308612bec237924ea70b
+29.01. 10:13:42.252[Notice]    fh.GameOptionsHash:f173b58e02d93e89985727022e4f2367c255284a
+29.01. 10:13:42.252[Notice]    fh.ClientXNAHash:f42604d1c0db1e95000acdbe3a9ced3794c639d1
+29.01. 10:13:42.252[Notice]    fh.MainExeHash:3e106b23b1136ed1a14d52be4c869ce61b90e454
+29.01. 10:13:42.253[Notice]    fh.INIHashes:15af269cd0669464ed236cc53e2a63c7ef6e4fd0
+29.01. 10:13:42.253[Notice]    fh.MPMapsHash:dcda7d833cdb86661133d7f38021a4b3eaffb6ed
+29.01. 10:13:42.253[Notice]    Complete hash: 5dd0faf6d436e146b313308612bec237924ea70b
+29.01. 10:13:42.289[Notice]    RandomSeed received as:1956515010
+29.01. 10:14:04.249[Notice]    Hash for INI\Map Code\Battle.ini :
+29.01. 10:14:04.250[Notice]    Hash for Ares.dll.inj: 659d6e6eb847e81573c162fa0d0ed12eff5a710e
+29.01. 10:14:04.250[Notice]    Hash for INI\Map Code\Free For All.ini :85e53271e14006f0265921d02d4d736cdc580b0b
+29.01. 10:14:04.253[Notice]    Hash for Revenge.ext.ink: ba49ef23ed3675a9ebfd94db43e4dc4cebabbdbb
+29.01. 10:14:04.253[Notice]    Hash for Ares.dll: c8bfd7632a348ab1f93fdc6fce2d9a48beaee78b
+29.01. 10:14:04.254[Notice]    Hash for expandrn08.mix: 
+29.01. 10:14:04.258[Notice]    Hash for Revenge.ext: af07df115340fc133a7b37912fe459cb66fe7761
+29.01. 10:14:04.260[Notice]    Hash for INI\Map Code\Meat Grinder.ini :6fdb8bfc76a17f39aff6ceb355f8900407e2e183
+29.01. 10:14:04.260[Notice]    Hash for INI\Map Code\Alchemy.ini :
+29.01. 10:14:04.260[Notice]    Hash for INI\Map Code\Unholy Alliance.ini :dfb8c0ffaccad54e583f101a001bb93485ef73ea
+29.01. 10:14:04.261[Notice]    Hash for INI\Map Code\Team Alliance.ini :0d59b708a38946d5f441cc098c5b092c13b94d85
+29.01. 10:14:04.261[Notice]    Hash for INI\Map Code\Naval War.ini :493194f0090f7ee4f4442eeb9ccbff00209830c0
+29.01. 10:14:04.262[Notice]    Hash for INI\Map Code\Competition.ini :
+29.01. 10:14:04.262[Notice]    Hash for INI\Map Code\Cooperative.ini :85e53271e14006f0265921d02d4d736cdc580b0b
+29.01. 10:14:04.263[Notice]    Hash for INI\Map Code\Land Rush.ini :4e25fdc5f43fb4a493528b07b88295b124981520
+29.01. 10:14:04.263[Notice]    Hash for INI\Map Code\Megawealth.ini :7d0c0f7943f630adc37a9344fc6afccf86522ca6
+29.01. 10:14:04.263[Notice]    Hash for INI\Map Code\Star War.ini :
+29.01. 10:14:04.263[Notice]    Hash for INI\Map Code\Developer Park.ini :
+29.01. 10:14:04.263[Notice]    Hash for INI\Map Code\Fortress War.ini :
+29.01. 10:14:04.264[Notice]    Hash for INI\Map Code\Heros War.ini :
+29.01. 10:14:04.264[Notice]    Hash for C:\game\新的正常内侧日牛 测试用2\INI\Game Options\Allies Allowed.ini: 4d8d0159ab8c411b61eeb26cdd798bcd024a972f
+29.01. 10:14:04.265[Notice]    Hash for C:\game\新的正常内侧日牛 测试用2\INI\Game Options\Stationary Fog.ini: ebc909428a997c9319c8099c9979bd2eb49f13d7
+29.01. 10:14:04.268[Notice]    Hash for expandrn20.mix: 870386c883c4922fc058f0a1e2fe163f4973c2b4
+29.01. 10:14:04.269[Notice]    Hash for expandrn09.mix: da1950c9cc9b6a7b7d804599cd2499122caced9b
+29.01. 10:14:04.270[Notice]    Hash for expandrn06.mix: 9f7a49cc488b8d4c18ce4fe1330aa6a21b7bf957
+29.01. 10:14:04.286[Notice]    Hash for expandrn26.mix: ff1d9a901cb0a999c18febe56ea71fed45fc6c56
+29.01. 10:14:04.287[Notice]    Hash for expandrn99.mix: 9b3e28eca3084fa3e79a19a48f9dbd66e31bfc67
+29.01. 10:14:04.287[Notice]    Hash for cncnet5.ext: eae429547a55829a7d5fe45abfaf748acbf73128
+29.01. 10:14:04.287[Notice]    Hash for Resources\FHCConfig.ini: 
+29.01. 10:14:04.288[Notice]    Hash for INI\GlobalCode.ini: 3ea9a358e557647fc5fd0b7533a4e1795724a601
+29.01. 10:14:04.292[Notice]    Hash for expandrn27.mix: a0ad678e6a93aab9caead2c873a6513258b9dc90
+29.01. 10:14:04.296[Notice]    Hash for expandrn05.mix: 9359472e547a504ec2f5b37dd4bd6503d27f7d9e
+29.01. 10:14:04.306[Notice]    Hash for expandrn04.mix: 4f3af018131d9ab4183b7e0b7d4b7b5e4036a0b5
+29.01. 10:14:04.307[Notice]    Hash for expandrn91.mix: 5047cfddd32cfd571ae5998e11da97f5e2b381a0
+29.01. 10:14:04.335[Notice]    Hash for expandrn28.mix: 603b1de0198665da0fb1a1eff8d48472d5607c99
+29.01. 10:14:04.359[Notice]    Hash for expandrn40.mix: 1ffd632630a0a156f77ce82a2bc68ae70fb3f07f
+29.01. 10:14:04.383[Notice]    Hash for expandrn90.mix: 500db36a35b0b31839d86ccdc1743c13ca1030ba
+29.01. 10:14:04.432[Notice]    Hash for expandrn50.mix: 33a4c35e471c6a1be15a90f7eecd8857c31d7a23
+29.01. 10:14:04.494[Notice]    Hash for expandrn92.mix: 809fa1f58a0824daa3e15bbb5a13d8281cc902ae
+29.01. 10:14:04.516[Notice]    Hash for expandrn07.mix: 1e255fa97ea6c418db4cd5f1d8f408a805509638
+29.01. 10:14:04.526[Notice]    Hash for expandrn02.mix: 9ce246bf13a9818bdfce8e36e70329a761179a38
+29.01. 10:14:04.779[Notice]    Hash for expandrn95.mix: 0a82196a35bc7bbc30b072feefc2e2d4adc008f0
+29.01. 10:14:04.807[Notice]    Hash for expandrn03.mix: 3ee3ad335a79d86ee8fc26ebc490a08ba6f8a1ec
+29.01. 10:14:04.807[Notice]    fh.GameOptionsHash:f173b58e02d93e89985727022e4f2367c255284a
+29.01. 10:14:04.808[Notice]    fh.ClientXNAHash:f42604d1c0db1e95000acdbe3a9ced3794c639d1
+29.01. 10:14:04.808[Notice]    fh.MainExeHash:3e106b23b1136ed1a14d52be4c869ce61b90e454
+29.01. 10:14:04.808[Notice]    fh.INIHashes:15af269cd0669464ed236cc53e2a63c7ef6e4fd0
+29.01. 10:14:04.808[Notice]    fh.MPMapsHash:dcda7d833cdb86661133d7f38021a4b3eaffb6ed
+29.01. 10:14:04.808[Notice]    Complete hash: 5dd0faf6d436e146b313308612bec237924ea70b
+29.01. 10:14:04.808[Notice]    fh.GameOptionsHash:f173b58e02d93e89985727022e4f2367c255284a
+29.01. 10:14:04.808[Notice]    fh.ClientXNAHash:f42604d1c0db1e95000acdbe3a9ced3794c639d1
+29.01. 10:14:04.808[Notice]    fh.MainExeHash:3e106b23b1136ed1a14d52be4c869ce61b90e454
+29.01. 10:14:04.809[Notice]    fh.INIHashes:15af269cd0669464ed236cc53e2a63c7ef6e4fd0
+29.01. 10:14:04.809[Notice]    fh.MPMapsHash:dcda7d833cdb86661133d7f38021a4b3eaffb6ed
+29.01. 10:14:04.809[Notice]    Complete hash: 5dd0faf6d436e146b313308612bec237924ea70b
+29.01. 10:14:05.236[Notice]    RandomSeed received as:1956515010
+29.01. 10:14:25.267[Notice]    BroadcastPlayerOptions:0
+29.01. 10:15:16.340[Notice]    Fetching tunnel server info.
