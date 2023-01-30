@@ -3,7 +3,7 @@
 
 ## 使用方法
 
-- 若首次使用此软件，请先运行一次RN——log_filter.exe，软件会在其根目录自动生成“log_input1”“log_input2”两个文件夹
+- 若首次使用此软件，请先运行一次RN_log_filter.exe，软件会在其根目录自动生成“log_input1”“log_input2”两个文件夹
 - 比对用法
     - 请将要对比的client.log分别放置在“log_input1”、“log_input2”中
     - 然后运行程序，软件处理完毕后根目录下会生成一个differ_result.txt，此文件中会包含比对结果
