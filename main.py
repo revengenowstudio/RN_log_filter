@@ -18,19 +18,16 @@ differ_result_name = "differ_result.txt"
 Separator_lenth = 100   # 定义分隔符的长度
 Separator = '-' * Separator_lenth  
 
-logformat = "[%(asctime)s] [%(levelname)s] %(msg)s"   #log打印的格式
 
+logformat = "[%(asctime)s] [%(levelname)s] %(msg)s"   #log打印的格式
 console_handler = logging.StreamHandler()  #输出到控制台
 console_handler.setLevel('INFO')   #info以上才输出到控制台
 console_handler.setFormatter(logging.Formatter(logformat))   #设置输出到控制台的格式
-
 logging.basicConfig(filename=log_file_name,level=logging.DEBUG, format=logformat)
 # 这里定义日志的名字，日志的文本编码，日志的等级
-
 logger = logging.getLogger(__name__)   #logging使用规范，有了这句就可以用logger.xxx了
-
 logger.addHandler(console_handler) #logging输出到控制台
-2
+
 
 
 
