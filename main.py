@@ -107,7 +107,7 @@ def read_config_json(
                 log_differ_error=log_differ(client_log_dir_path1,client_log_dir_path2,RN_path)
             if not is_read_client_log1 and not is_read_client_log2:
                 logger.info(f'two client.log not found , skiping log_differ')
-                
+
             only_one_log = f'one client.log not found , skiping log_differ'
             if is_read_client_log1 and not is_read_client_log2:
                 logger.info(only_one_log)
@@ -278,18 +278,18 @@ def log_differ(
                     f3.write(i3)
                     final_list_1_counter +=1
                 logger.info(f'writing differ result--2 in {differ_result_path}')
-                f3.write(f'\n\n{Separator}\n\n')
+                f3.write(f'\n{Separator}\n\n')
                 f3.write(f'log_input2 difference hash: \n\n')
                 for i4 in final_list_2:
                     f3.write(i4)
                     final_list_2_counter += 1
-                f3.write(f'\n\n{Separator}\n\n')
+                f3.write(f'\n{Separator}\n\n')
                 logger.info(f'writing the same hash  in {differ_result_path}')
                 f3.write(f'the same hash: \n\n')
                 for i5 in the_same:
                     f3.write(i5)
                     the_same_counter += 1
-                f3.write(f'\n{Separator}\n\n')
+                f3.write(f'\n\n{Separator}\n\n')
                 logger.info(f'writing hash counter in {differ_result_path}')
                 f3.write(f'number of log_input1 difference hash : {final_list_1_counter}\n')
                 f3.write(f'number of log_input2 difference hash : {final_list_2_counter}\n')
