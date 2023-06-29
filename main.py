@@ -166,7 +166,7 @@ def read_clientLog(
 
                 for ii in finallist:
                     total_hash = total_hash + 1
-                    w.write(ii)     
+                    w.write(ii.lstrip())     
 
                 logger.info(f'writing result to {result_path}')
 
